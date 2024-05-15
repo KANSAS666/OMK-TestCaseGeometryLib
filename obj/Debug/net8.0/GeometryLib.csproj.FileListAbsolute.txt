@@ -1,0 +1,11 @@
+D:\Study Data\C#_LABS\GeometryLib\bin\Debug\net8.0\GeometryLib.deps.json
+D:\Study Data\C#_LABS\GeometryLib\bin\Debug\net8.0\GeometryLib.dll
+D:\Study Data\C#_LABS\GeometryLib\bin\Debug\net8.0\GeometryLib.pdb
+D:\Study Data\C#_LABS\GeometryLib\obj\Debug\net8.0\GeometryLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Data\C#_LABS\GeometryLib\obj\Debug\net8.0\GeometryLib.AssemblyInfoInputs.cache
+D:\Study Data\C#_LABS\GeometryLib\obj\Debug\net8.0\GeometryLib.AssemblyInfo.cs
+D:\Study Data\C#_LABS\GeometryLib\obj\Debug\net8.0\GeometryLib.csproj.CoreCompileInputs.cache
+D:\Study Data\C#_LABS\GeometryLib\obj\Debug\net8.0\GeometryLib.dll
+D:\Study Data\C#_LABS\GeometryLib\obj\Debug\net8.0\refint\GeometryLib.dll
+D:\Study Data\C#_LABS\GeometryLib\obj\Debug\net8.0\GeometryLib.pdb
+D:\Study Data\C#_LABS\GeometryLib\obj\Debug\net8.0\ref\GeometryLib.dll
